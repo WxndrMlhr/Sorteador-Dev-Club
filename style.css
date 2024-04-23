@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+
+
+}
+
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+p {
+
+    color: white;
+
+
+
+}
+
+
+
+
+
+head {
+
+
+    width: 342px;
+    height: 72px;
+    top: 156px;
+    left: 728px;
+    gap: 0px;
+    opacity: 0px;
+
+
+
+
+
+}
+
+button {
+
+    background: rgba(174, 195, 70, 1);
+    color: white;
+    width: 342px;
+    height: 72px;
+    top: 858px;
+    left: 849px;
+    gap: 15px;
+    border-radius: 10px;
+    opacity: 0px;
+    cursor: pointer;
+    transition: 0.5;
+
+}
+
